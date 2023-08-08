@@ -1,0 +1,39 @@
+/* Custom styles for table */
+.table-bordered {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: #55ccc4;
+    border: 1px solid #4677a9;
+    border-collapse: collapse;
+    border-radius: 5px;
+      }
+  
+  .table th,
+  .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #4554a1;
+  }
+  
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #614b76;
+  }
+  
+  
+  body {
+    background-image:url(https://th.bing.com/th/id/OIP.g9iXIlchNa-QFiHvq0XDXwHaEK?pid=ImgDet&rs=1);
+    background-size: cover; /* Hiển thị ảnh bằng cách căn chỉnh và cắt ngang hoặc dọc để phù hợp với toàn màn hình */
+  background-repeat: no-repeat; /* Ngăn lặp lại ảnh */
+  background-attachment: fixed;
+
+  }
+  
+  .container {
+    background-color: #65b0be;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
